@@ -1,0 +1,512 @@
+[
+  {
+    "SALA": "ABANCAY 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "ABANCAY 2",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "ANDAHUAYLAS 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "ANDAHUAYLAS 2",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "AREQUIPA 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "AREQUIPA 2",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "AYACUCHO 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "BAGUA GRANDE",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "BARRANCA 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "BARRANCA 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "BARRANCA 3",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "BARRANCO 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "BOLIVAR",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CAJAMARCA 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CAJAMARCA 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "CAJAMARCA 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "CAJAMARCA 4",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CHICLAYO 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CHICLAYO 2",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "CHIMBOTE 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "CHIMBOTE 3",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "CHINCHA 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "CHINCHA 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "CHINCHA 4",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CHORRILLOS",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "CHOSICA 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "CHOSICA 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "COLONIAL",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "COMAS 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "COMAS 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "COMAS 3",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "COMAS 4",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "COMAS 5",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "CUSCO 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "CUSCO 2",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "2 DE MAYO",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "ELIO",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "GAMARRA 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "HUACHO 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "HUACHO 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "HUACHO 3",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "HUANCAYO",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "HUARAL 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "HUARAZ 1",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "HUARAZ 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "HUARAZ 4",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "HUARAZ 5",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "HUARMEY 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "ICA 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "ICA 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "ILO 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "IQUITOS 1",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "IQUITOS 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "IQUITOS 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "IQUITOS 4",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "IQUITOS 6",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "JAEN 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "JULIACA 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "JULIACA 2",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "JULIACA 3",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "LAMBAYEQUE",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "LAMBAYEQUE 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "LOS OLIVOS 2",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "LOS OLIVOS 3",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "LURIN",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "MANCO CAPAC",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "MOQUEGUA",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "MOYOBAMBA 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "PIURA 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "PIURA 2",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "PUCALLPA 1",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "PUCALLPA 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "PUCALLPA 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "PUNO 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "SAN GERMAN",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "SAN JUAN 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "SAN JUAN 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "SAN JUAN 3",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "SAN JUAN 4",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "SAN JUAN 6",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "SAN MARTIN 1",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "SAN MARTIN 2",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "SAN MARTIN 3",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "SAN MARTIN 4",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "SAN MARTIN 5",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "SANTA ANITA",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "SULLANA 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "SULLANA 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "TACNA",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "TARAPOTO 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "TARAPOTO 3",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "TARAPOTO 4",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "TARAPOTO 5",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "TRUJILLO 1",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "TRUJILLO 2",
+    "ANALISTA": "JOHNNY MIRANDA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "TUMBES 2",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "TUMBES 3",
+    "ANALISTA": "DIANA ALVAREZ",
+    "ASISTENTE": "CARLO"
+  },
+  {
+    "SALA": "VENTANILLA 2",
+    "ANALISTA": "CARLOS HUAMANI",
+    "ASISTENTE": "ANDY"
+  },
+  {
+    "SALA": "VENTANILLA 3",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "MAITE"
+  },
+  {
+    "SALA": "VILLA 2",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "ZARATE 1",
+    "ANALISTA": "TERESA ESTRADA",
+    "ASISTENTE": "ROSA"
+  },
+  {
+    "SALA": "ZARATE 3",
+    "ANALISTA": "GERMAN COAQUIRA",
+    "ASISTENTE": "CARLO"
+  }
+]
