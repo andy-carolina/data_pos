@@ -1,0 +1,1027 @@
+[
+  {
+    "codigo_comercio": 5681258,
+    "sala": "BARRANCO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681289,
+    "sala": "CHORRILLOS",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681312,
+    "sala": "COMAS 5",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681343,
+    "sala": "COMAS 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681371,
+    "sala": "MANCO CAPAC",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681438,
+    "sala": "2 DE MAYO",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681440,
+    "sala": "SAN JUAN 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681442,
+    "sala": "SAN JUAN 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681451,
+    "sala": "VILLA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681457,
+    "sala": "LOS OLIVOS 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681460,
+    "sala": "JULIACA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681465,
+    "sala": "TACNA",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681469,
+    "sala": "LOS OLIVOS 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681471,
+    "sala": "HUACHO 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681477,
+    "sala": "CHOSICA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681478,
+    "sala": "HUACHO 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681485,
+    "sala": "IQUITOS 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681690,
+    "sala": "SAN GERMAN",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681691,
+    "sala": "LURIN",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681695,
+    "sala": "SAN JUAN 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681699,
+    "sala": "VENTANILLA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681700,
+    "sala": "SAN MARTIN 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681704,
+    "sala": "SAN JUAN 6",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681705,
+    "sala": "SAN MARTIN 5",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681709,
+    "sala": "COLONIAL",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681710,
+    "sala": "SAN MARTIN 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5681713,
+    "sala": "SANTA ANITA",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682192,
+    "sala": "CHOSICA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682195,
+    "sala": "SAN MARTIN 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682200,
+    "sala": "COMAS 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682202,
+    "sala": "ZARATE 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682204,
+    "sala": "BOLIVAR",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682208,
+    "sala": "COMAS 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682209,
+    "sala": "SAN JUAN 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682210,
+    "sala": "GAMARRA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682211,
+    "sala": "COMAS 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682216,
+    "sala": "BARRANCA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682222,
+    "sala": "BARRANCA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682225,
+    "sala": "BARRANCA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682226,
+    "sala": "PUCALLPA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682230,
+    "sala": "PUCALLPA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682236,
+    "sala": "HUARAZ 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682276,
+    "sala": "AREQUIPA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682277,
+    "sala": "CAJAMARCA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682278,
+    "sala": "AREQUIPA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682281,
+    "sala": "CAJAMARCA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682284,
+    "sala": "CHICLAYO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682287,
+    "sala": "CHINCHA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682289,
+    "sala": "CAJAMARCA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682291,
+    "sala": "CHINCHA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682294,
+    "sala": "CHICLAYO 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682402,
+    "sala": "CHINCHA 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682549,
+    "sala": "PIURA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682556,
+    "sala": "PIURA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682576,
+    "sala": "PUCALLPA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682582,
+    "sala": "CUSCO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682600,
+    "sala": "CUSCO 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682604,
+    "sala": "AYACUCHO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682610,
+    "sala": "PUNO 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682613,
+    "sala": "HUARAL 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682622,
+    "sala": "HUARAZ 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682627,
+    "sala": "TARAPOTO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682628,
+    "sala": "HUARAZ 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682631,
+    "sala": "TARAPOTO 5",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682634,
+    "sala": "TARAPOTO 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682638,
+    "sala": "HUARAZ 5",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682642,
+    "sala": "TARAPOTO 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682645,
+    "sala": "HUARMEY 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682754,
+    "sala": "ICA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682756,
+    "sala": "TRUJILLO 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682760,
+    "sala": "SULLANA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682763,
+    "sala": "IQUITOS 6",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682765,
+    "sala": "ILO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682766,
+    "sala": "ICA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682770,
+    "sala": "IQUITOS 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682772,
+    "sala": "IQUITOS 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682773,
+    "sala": "BAGUA GRANDE",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682776,
+    "sala": "TRUJILLO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682778,
+    "sala": "TUMBES 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682779,
+    "sala": "TUMBES 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5682780,
+    "sala": "IQUITOS 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683118,
+    "sala": "ZARATE 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683182,
+    "sala": "VENTANILLA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683190,
+    "sala": "ABANCAY 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683203,
+    "sala": "ABANCAY 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683216,
+    "sala": "ANDAHUAYLAS 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683240,
+    "sala": "HUACHO 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683267,
+    "sala": "LAMBAYEQUE",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683277,
+    "sala": "LAMBAYEQUE 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683313,
+    "sala": "MOQUEGUA",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683353,
+    "sala": "JULIACA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683364,
+    "sala": "CHIMBOTE 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683415,
+    "sala": "MOYOBAMBA 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683424,
+    "sala": "SULLANA 3",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5683434,
+    "sala": "SAN MARTIN 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5684584,
+    "sala": "HUANCAYO",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5685134,
+    "sala": "JAEN 1",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5703690,
+    "sala": "JULIACA 2",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5730183,
+    "sala": "ELIO",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 5812860,
+    "sala": "CAJAMARCA 4",
+    "pasarela": "izipay"
+  },
+  {
+    "codigo_comercio": 10007735,
+    "sala": "PIURA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007736,
+    "sala": "HUARAZ 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007737,
+    "sala": "CUSCO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007738,
+    "sala": "CHIMBOTE 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007739,
+    "sala": "COMAS 5",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007740,
+    "sala": "ILO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007741,
+    "sala": "ZARATE 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007742,
+    "sala": "CHORRILLOS",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007743,
+    "sala": "ELIO",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007744,
+    "sala": "LURIN",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007745,
+    "sala": "ICA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007746,
+    "sala": "SANTA ANITA",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007748,
+    "sala": "SANJUAN 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007748,
+    "sala": "SAN JUAN 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007749,
+    "sala": "SAN MARTIN 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007750,
+    "sala": "TARAPOTO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007751,
+    "sala": "VENTANILLA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007752,
+    "sala": "SAN GERMAN",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007754,
+    "sala": "HUARAL 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007755,
+    "sala": "SULLANA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007756,
+    "sala": "CAJAMARCA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007757,
+    "sala": "TRUJILLO 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007758,
+    "sala": "BARRANCO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007760,
+    "sala": "TARAPOTO 5",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007762,
+    "sala": "MOYOBAMBA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007763,
+    "sala": "MOQUEGUA",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007764,
+    "sala": "CHIMBOTE 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007765,
+    "sala": "ANDAHUAYLAS 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007766,
+    "sala": "COMAS 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007767,
+    "sala": "PUNO 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007769,
+    "sala": "COLONIAL",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007770,
+    "sala": "TRUJILLO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007771,
+    "sala": "ABANCAY 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007772,
+    "sala": "AYACUCHO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007773,
+    "sala": "CUSCO 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007776,
+    "sala": "HUACHO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007777,
+    "sala": "HUARAZ 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007778,
+    "sala": "IQUITOS 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007780,
+    "sala": "LAMBAYEQUE",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007781,
+    "sala": "SANMARTIN 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007782,
+    "sala": "TUMBES 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007784,
+    "sala": "IQUITOS 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007786,
+    "sala": "ICA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007789,
+    "sala": "CAJAMARCA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007790,
+    "sala": "SANJUAN 6",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007791,
+    "sala": "CHINCHA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007792,
+    "sala": "HUARAZ 5",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007805,
+    "sala": "JULIACA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007806,
+    "sala": "LOS OLIVOS 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007807,
+    "sala": "VENTANILLA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007809,
+    "sala": "PIURA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007810,
+    "sala": "CHOSICA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007811,
+    "sala": "LOS OLIVOS 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007814,
+    "sala": "CHICLAYO 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007815,
+    "sala": "CHICLAYO 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007816,
+    "sala": "PUCALLPA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007817,
+    "sala": "JAEN 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007818,
+    "sala": "CHINCHA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007819,
+    "sala": "MANCOCAPAC",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007820,
+    "sala": "SANMARTIN 5",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007821,
+    "sala": "TARAPOTO 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007822,
+    "sala": "IQUITOS 6",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007824,
+    "sala": "IQUITOS 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007826,
+    "sala": "SULLANA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007827,
+    "sala": "TARAPOTO 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007828,
+    "sala": "ABANCAY 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007831,
+    "sala": "CHINCHA 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007834,
+    "sala": "AREQUIPA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007835,
+    "sala": "TUMBES 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007836,
+    "sala": "HUARMEY 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007838,
+    "sala": "BAGUA GRANDE",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007839,
+    "sala": "CAJAMARCA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007842,
+    "sala": "2 DE MAYO",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007843,
+    "sala": "ANDAHUAYLAS 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007844,
+    "sala": "LAMBAYEQUE 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10008981,
+    "sala": "VILLA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10008984,
+    "sala": "TACNA",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10056355,
+    "sala": "RESTAURANTECAJAMARCA 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10056357,
+    "sala": "CAJAMARCA 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059527,
+    "sala": "BARRANCA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059528,
+    "sala": "BARRANCA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059529,
+    "sala": "BARRANCA 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059530,
+    "sala": "BOLIVAR",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059531,
+    "sala": "CHOSICA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059533,
+    "sala": "COMAS 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059534,
+    "sala": "COMAS 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059535,
+    "sala": "COMAS 4",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059536,
+    "sala": "GAMARRA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059538,
+    "sala": "HUACHO 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059539,
+    "sala": "HUACHO 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059540,
+    "sala": "HUANCAYO",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059542,
+    "sala": "HUARAZ 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059543,
+    "sala": "IQUITOS 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059544,
+    "sala": "JULIACA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059578,
+    "sala": "JULIACA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059579,
+    "sala": "PUCALLPA 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059580,
+    "sala": "PUCALLPA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059582,
+    "sala": "SAN JUAN 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059584,
+    "sala": "SAN JUAN 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059586,
+    "sala": "SAN JUAN 3",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059587,
+    "sala": "SAN MARTIN 1",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059588,
+    "sala": "SAN MARTIN 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059589,
+    "sala": "TACNA",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059590,
+    "sala": "VILLA 2",
+    "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10059591,
+    "sala": "ZARATE 1",
+    "pasarela": "openpay"
+  }
+]
