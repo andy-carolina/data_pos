@@ -4638,106 +4638,1156 @@
         "VisaNet":28691.0
     },
     {
-        "BNET":"Diario",
+        "BNET":"Conteo",
+        "Sala":"2 DE MAYO",
+        "fecha":1772409600000,
+        "VisaNet":11923.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ABANCAY 1",
+        "fecha":1772409600000,
+        "VisaNet":78821.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ABANCAY 2",
+        "fecha":1772409600000,
+        "VisaNet":10516.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ANDAHUAYLAS 1",
+        "fecha":1772409600000,
+        "VisaNet":16937.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ANDAHUAYLAS 2",
+        "fecha":1772409600000,
+        "VisaNet":44011.08
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"AREQUIPA 1",
+        "fecha":1772409600000,
+        "VisaNet":27727.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"AYACUCHO 1",
+        "fecha":1772409600000,
+        "VisaNet":69889.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BAGUA GRANDE",
+        "fecha":1772409600000,
+        "VisaNet":84348.5
+    },
+    {
+        "BNET":"Conteo",
         "Sala":"BARRANCA 1",
-        "fecha":1772236800000,
-        "VisaNet":53396.5
+        "fecha":1772409600000,
+        "VisaNet":77180.5
     },
     {
-        "BNET":"Diario",
+        "BNET":"Conteo",
         "Sala":"BARRANCA 2",
-        "fecha":1772236800000,
-        "VisaNet":17250.0
+        "fecha":1772409600000,
+        "VisaNet":35190.0
     },
     {
-        "BNET":"Diario",
+        "BNET":"Conteo",
+        "Sala":"BARRANCA 3",
+        "fecha":1772409600000,
+        "VisaNet":87681.58
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BARRANCO 1",
+        "fecha":1772409600000,
+        "VisaNet":22227.1
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BOLIVAR",
+        "fecha":1772409600000,
+        "VisaNet":10223.0
+    },
+    {
+        "BNET":"Conteo",
         "Sala":"CAJAMARCA 1",
-        "fecha":1772236800000,
-        "VisaNet":35209.0
+        "fecha":1772409600000,
+        "VisaNet":43200.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 2",
+        "fecha":1772409600000,
+        "VisaNet":49294.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 3",
+        "fecha":1772409600000,
+        "VisaNet":42856.27
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 4",
+        "fecha":1772409600000,
+        "VisaNet":17973.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHICLAYO 1",
+        "fecha":1772409600000,
+        "VisaNet":62760.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHICLAYO 2",
+        "fecha":1772409600000,
+        "VisaNet":21630.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHIMBOTE 1",
+        "fecha":1772409600000,
+        "VisaNet":22109.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHIMBOTE 3",
+        "fecha":1772409600000,
+        "VisaNet":18600.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 1",
+        "fecha":1772409600000,
+        "VisaNet":36304.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 3",
+        "fecha":1772409600000,
+        "VisaNet":26891.1
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 4",
+        "fecha":1772409600000,
+        "VisaNet":28084.2
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHORRILLOS",
+        "fecha":1772409600000,
+        "VisaNet":37740.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHOSICA 1",
+        "fecha":1772409600000,
+        "VisaNet":59248.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHOSICA 2",
+        "fecha":1772409600000,
+        "VisaNet":49632.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COLONIAL",
+        "fecha":1772409600000,
+        "VisaNet":20114.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 1",
+        "fecha":1772409600000,
+        "VisaNet":63783.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 2",
+        "fecha":1772409600000,
+        "VisaNet":17099.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 3",
+        "fecha":1772409600000,
+        "VisaNet":5936.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 4",
+        "fecha":1772409600000,
+        "VisaNet":13914.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 5",
+        "fecha":1772409600000,
+        "VisaNet":11290.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CUSCO 1",
+        "fecha":1772409600000,
+        "VisaNet":29021.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CUSCO 2",
+        "fecha":1772409600000,
+        "VisaNet":34065.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ELIO",
+        "fecha":1772409600000,
+        "VisaNet":27768.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"GAMARRA 1",
+        "fecha":1772409600000,
+        "VisaNet":97764.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 1",
+        "fecha":1772409600000,
+        "VisaNet":84017.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 2",
+        "fecha":1772409600000,
+        "VisaNet":12749.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 3",
+        "fecha":1772409600000,
+        "VisaNet":19782.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUANCAYO",
+        "fecha":1772409600000,
+        "VisaNet":148298.1
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAL 1",
+        "fecha":1772409600000,
+        "VisaNet":86710.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 1",
+        "fecha":1772409600000,
+        "VisaNet":98137.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 2",
+        "fecha":1772409600000,
+        "VisaNet":48444.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 4",
+        "fecha":1772409600000,
+        "VisaNet":22864.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 5",
+        "fecha":1772409600000,
+        "VisaNet":42976.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARMEY 2",
+        "fecha":1772409600000,
+        "VisaNet":45137.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ICA 1",
+        "fecha":1772409600000,
+        "VisaNet":24558.6
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ICA 2",
+        "fecha":1772409600000,
+        "VisaNet":153251.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ILO 1",
+        "fecha":1772409600000,
+        "VisaNet":99094.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 1",
+        "fecha":1772409600000,
+        "VisaNet":32786.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 2",
+        "fecha":1772409600000,
+        "VisaNet":13972.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 3",
+        "fecha":1772409600000,
+        "VisaNet":10546.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 4",
+        "fecha":1772409600000,
+        "VisaNet":22981.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 6",
+        "fecha":1772409600000,
+        "VisaNet":34660.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JAEN 1",
+        "fecha":1772409600000,
+        "VisaNet":90969.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 1",
+        "fecha":1772409600000,
+        "VisaNet":67805.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 2",
+        "fecha":1772409600000,
+        "VisaNet":42410.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 3",
+        "fecha":1772409600000,
+        "VisaNet":28620.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LAMBAYEQUE",
+        "fecha":1772409600000,
+        "VisaNet":68149.4
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LAMBAYEQUE 2",
+        "fecha":1772409600000,
+        "VisaNet":78263.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LOS OLIVOS 2",
+        "fecha":1772409600000,
+        "VisaNet":8729.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LOS OLIVOS 3",
+        "fecha":1772409600000,
+        "VisaNet":25702.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LURIN",
+        "fecha":1772409600000,
+        "VisaNet":31138.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"MANCO CAPAC",
+        "fecha":1772409600000,
+        "VisaNet":8275.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"MOQUEGUA",
+        "fecha":1772409600000,
+        "VisaNet":11764.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"MOYOBAMBA 1",
+        "fecha":1772409600000,
+        "VisaNet":70463.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PIURA 1",
+        "fecha":1772409600000,
+        "VisaNet":92130.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PIURA 2",
+        "fecha":1772409600000,
+        "VisaNet":88366.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 1",
+        "fecha":1772409600000,
+        "VisaNet":46898.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 2",
+        "fecha":1772409600000,
+        "VisaNet":39213.4
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 3",
+        "fecha":1772409600000,
+        "VisaNet":21828.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUNO 2",
+        "fecha":1772409600000,
+        "VisaNet":47186.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN GERMAN",
+        "fecha":1772409600000,
+        "VisaNet":47367.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 1",
+        "fecha":1772409600000,
+        "VisaNet":35629.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 3",
+        "fecha":1772409600000,
+        "VisaNet":12266.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 1",
+        "fecha":1772409600000,
+        "VisaNet":6779.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 2",
+        "fecha":1772409600000,
+        "VisaNet":10589.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 3",
+        "fecha":1772409600000,
+        "VisaNet":184697.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 4",
+        "fecha":1772409600000,
+        "VisaNet":22274.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 5",
+        "fecha":1772409600000,
+        "VisaNet":11966.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SANTA ANITA",
+        "fecha":1772409600000,
+        "VisaNet":109300.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SULLANA 1",
+        "fecha":1772409600000,
+        "VisaNet":35994.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SULLANA 3",
+        "fecha":1772409600000,
+        "VisaNet":62759.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TACNA",
+        "fecha":1772409600000,
+        "VisaNet":265576.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 1",
+        "fecha":1772409600000,
+        "VisaNet":25400.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 3",
+        "fecha":1772409600000,
+        "VisaNet":36050.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 4",
+        "fecha":1772409600000,
+        "VisaNet":26310.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 5",
+        "fecha":1772409600000,
+        "VisaNet":40080.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TRUJILLO 1",
+        "fecha":1772409600000,
+        "VisaNet":77169.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TRUJILLO 2",
+        "fecha":1772409600000,
+        "VisaNet":29419.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TUMBES 2",
+        "fecha":1772409600000,
+        "VisaNet":11687.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TUMBES 3",
+        "fecha":1772409600000,
+        "VisaNet":10219.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VENTANILLA 2",
+        "fecha":1772409600000,
+        "VisaNet":63115.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VENTANILLA 3",
+        "fecha":1772409600000,
+        "VisaNet":40809.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VILLA 2",
+        "fecha":1772409600000,
+        "VisaNet":124481.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ZARATE 1",
+        "fecha":1772409600000,
+        "VisaNet":82563.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ZARATE 3",
+        "fecha":1772409600000,
+        "VisaNet":31835.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BAGUA GRANDE",
+        "fecha":1772755200000,
+        "VisaNet":23167.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 3",
+        "fecha":1772755200000,
+        "VisaNet":24436.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 3",
+        "fecha":1772755200000,
+        "VisaNet":12056.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 2",
+        "fecha":1772755200000,
+        "VisaNet":10650.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CUSCO 2",
+        "fecha":1772755200000,
+        "VisaNet":17383.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 2",
+        "fecha":1772755200000,
+        "VisaNet":2755.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAL 1",
+        "fecha":1772755200000,
+        "VisaNet":35610.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 5",
+        "fecha":1772755200000,
+        "VisaNet":18357.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 3",
+        "fecha":1772755200000,
+        "VisaNet":3528.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 1",
+        "fecha":1772755200000,
+        "VisaNet":15299.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LAMBAYEQUE 2",
+        "fecha":1772755200000,
+        "VisaNet":28950.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PIURA 2",
+        "fecha":1772755200000,
+        "VisaNet":28302.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 2",
+        "fecha":1772755200000,
+        "VisaNet":23708.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 4",
+        "fecha":1772755200000,
+        "VisaNet":51480.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 6",
+        "fecha":1772755200000,
+        "VisaNet":42876.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 5",
+        "fecha":1772755200000,
+        "VisaNet":17021.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TRUJILLO 1",
+        "fecha":1772755200000,
+        "VisaNet":25412.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VENTANILLA 3",
+        "fecha":1772755200000,
+        "VisaNet":16091.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHICLAYO 2",
+        "fecha":1772841600000,
+        "VisaNet":12971.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHOSICA 1",
+        "fecha":1772841600000,
+        "VisaNet":34075.2
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ELIO",
+        "fecha":1772841600000,
+        "VisaNet":15860.2
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"GAMARRA 1",
+        "fecha":1772841600000,
+        "VisaNet":46477.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 3",
+        "fecha":1772841600000,
+        "VisaNet":12161.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARMEY 2",
+        "fecha":1772841600000,
+        "VisaNet":28933.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LOS OLIVOS 3",
+        "fecha":1772841600000,
+        "VisaNet":13724.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LURIN",
+        "fecha":1772841600000,
+        "VisaNet":18408.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 5",
+        "fecha":1772841600000,
+        "VisaNet":7117.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 3",
+        "fecha":1772841600000,
+        "VisaNet":17610.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ANDAHUAYLAS 1",
+        "fecha":1773014400000,
+        "VisaNet":13172.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ANDAHUAYLAS 2",
+        "fecha":1773014400000,
+        "VisaNet":32808.08
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BARRANCA 1",
+        "fecha":1773014400000,
+        "VisaNet":64765.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BARRANCO 1",
+        "fecha":1773014400000,
+        "VisaNet":21825.9
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BOLIVAR",
+        "fecha":1773014400000,
+        "VisaNet":9439.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 1",
+        "fecha":1773014400000,
+        "VisaNet":63196.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 5",
+        "fecha":1773014400000,
+        "VisaNet":13949.7
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 1",
+        "fecha":1773014400000,
+        "VisaNet":36196.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"MOYOBAMBA 1",
+        "fecha":1773014400000,
+        "VisaNet":79807.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 3",
+        "fecha":1773014400000,
+        "VisaNet":22115.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TACNA",
+        "fecha":1773014400000,
+        "VisaNet":267659.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TUMBES 2",
+        "fecha":1773014400000,
+        "VisaNet":6977.0
     },
     {
         "BNET":"Diario",
         "Sala":"CHORRILLOS",
-        "fecha":1772236800000,
-        "VisaNet":16825.0
+        "fecha":1773100800000,
+        "VisaNet":54868.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"2 DE MAYO",
+        "fecha":1773100800000,
+        "VisaNet":15912.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ABANCAY 1",
+        "fecha":1773100800000,
+        "VisaNet":128402.2
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"AREQUIPA 1",
+        "fecha":1773100800000,
+        "VisaNet":34185.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"BARRANCA 3",
+        "fecha":1773100800000,
+        "VisaNet":108173.66
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHICLAYO 1",
+        "fecha":1773100800000,
+        "VisaNet":80570.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHIMBOTE 1",
+        "fecha":1773100800000,
+        "VisaNet":38406.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 1",
+        "fecha":1773100800000,
+        "VisaNet":67141.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 4",
+        "fecha":1773100800000,
+        "VisaNet":27234.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 2",
+        "fecha":1773100800000,
+        "VisaNet":59407.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ILO 1",
+        "fecha":1773100800000,
+        "VisaNet":103695.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 4",
+        "fecha":1773100800000,
+        "VisaNet":31809.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JAEN 1",
+        "fecha":1773100800000,
+        "VisaNet":98712.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 3",
+        "fecha":1773100800000,
+        "VisaNet":33280.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LOS OLIVOS 2",
+        "fecha":1773100800000,
+        "VisaNet":9076.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 1",
+        "fecha":1773100800000,
+        "VisaNet":80963.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN GERMAN",
+        "fecha":1773100800000,
+        "VisaNet":68081.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 1",
+        "fecha":1773100800000,
+        "VisaNet":10447.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SULLANA 3",
+        "fecha":1773100800000,
+        "VisaNet":90184.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 4",
+        "fecha":1773100800000,
+        "VisaNet":47380.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ZARATE 3",
+        "fecha":1773100800000,
+        "VisaNet":40683.7
     },
     {
         "BNET":"Diario",
-        "Sala":"COMAS 1",
-        "fecha":1772236800000,
-        "VisaNet":37590.0
+        "Sala":"BARRANCA 1",
+        "fecha":1773187200000,
+        "VisaNet":21332.4
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"BARRANCA 2",
+        "fecha":1773187200000,
+        "VisaNet":82030.1
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CAJAMARCA 1",
+        "fecha":1773187200000,
+        "VisaNet":16350.0
     },
     {
         "BNET":"Diario",
         "Sala":"COMAS 3",
-        "fecha":1772236800000,
-        "VisaNet":2814.0
+        "fecha":1773187200000,
+        "VisaNet":14634.0
     },
     {
         "BNET":"Diario",
         "Sala":"CUSCO 1",
-        "fecha":1772236800000,
-        "VisaNet":12856.0
+        "fecha":1773187200000,
+        "VisaNet":92476.0
     },
     {
         "BNET":"Diario",
         "Sala":"GAMARRA 1",
-        "fecha":1772236800000,
-        "VisaNet":78079.0
+        "fecha":1773187200000,
+        "VisaNet":33366.0
     },
     {
         "BNET":"Diario",
         "Sala":"HUACHO 3",
-        "fecha":1772236800000,
-        "VisaNet":13837.9
+        "fecha":1773187200000,
+        "VisaNet":8973.0
     },
     {
         "BNET":"Diario",
         "Sala":"LOS OLIVOS 2",
-        "fecha":1772236800000,
-        "VisaNet":5912.0
+        "fecha":1773187200000,
+        "VisaNet":505.0
     },
     {
         "BNET":"Diario",
         "Sala":"LOS OLIVOS 3",
-        "fecha":1772236800000,
-        "VisaNet":17768.0
+        "fecha":1773187200000,
+        "VisaNet":7275.0
     },
     {
         "BNET":"Diario",
         "Sala":"MANCO CAPAC",
-        "fecha":1772236800000,
-        "VisaNet":3411.0
+        "fecha":1773187200000,
+        "VisaNet":18585.5
     },
     {
         "BNET":"Diario",
         "Sala":"PUCALLPA 3",
-        "fecha":1772236800000,
-        "VisaNet":14404.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"PUNO 2",
-        "fecha":1772236800000,
-        "VisaNet":32407.0
+        "fecha":1773187200000,
+        "VisaNet":37091.0
     },
     {
         "BNET":"Diario",
         "Sala":"SAN JUAN 2",
-        "fecha":1772236800000,
-        "VisaNet":2110.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"SULLANA 1",
-        "fecha":1772236800000,
-        "VisaNet":17431.0
+        "fecha":1773187200000,
+        "VisaNet":16536.0
     },
     {
         "BNET":"Diario",
         "Sala":"ZARATE 3",
-        "fecha":1772236800000,
-        "VisaNet":20042.0
+        "fecha":1773187200000,
+        "VisaNet":3499.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"AYACUCHO 1",
+        "fecha":1773187200000,
+        "VisaNet":111359.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 2",
+        "fecha":1773187200000,
+        "VisaNet":71265.2
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 4",
+        "fecha":1773187200000,
+        "VisaNet":44327.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHOSICA 2",
+        "fecha":1773187200000,
+        "VisaNet":93549.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 1",
+        "fecha":1773187200000,
+        "VisaNet":136691.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUACHO 1",
+        "fecha":1773187200000,
+        "VisaNet":135489.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 1",
+        "fecha":1773187200000,
+        "VisaNet":170345.08
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ICA 2",
+        "fecha":1773187200000,
+        "VisaNet":226398.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 6",
+        "fecha":1773187200000,
+        "VisaNet":41371.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"LAMBAYEQUE",
+        "fecha":1773187200000,
+        "VisaNet":89724.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PIURA 1",
+        "fecha":1773187200000,
+        "VisaNet":160938.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 2",
+        "fecha":1773187200000,
+        "VisaNet":91857.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUNO 2",
+        "fecha":1773187200000,
+        "VisaNet":64872.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN JUAN 1",
+        "fecha":1773187200000,
+        "VisaNet":57156.58
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SAN MARTIN 3",
+        "fecha":1773187200000,
+        "VisaNet":315750.08
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TARAPOTO 1",
+        "fecha":1773187200000,
+        "VisaNet":26947.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TRUJILLO 2",
+        "fecha":1773187200000,
+        "VisaNet":91946.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TUMBES 3",
+        "fecha":1773187200000,
+        "VisaNet":19432.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VILLA 2",
+        "fecha":1773187200000,
+        "VisaNet":207035.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"ZARATE 1",
+        "fecha":1773187200000,
+        "VisaNet":142210.0
     },
     {
         "BNET":"Diario",
@@ -4809,7 +5859,7 @@
         "BNET":"Diario",
         "Sala":"CAJAMARCA 3",
         "fecha":1773273600000,
-        "VisaNet":22805.5
+        "VisaNet":24764.5
     },
     {
         "BNET":"Diario",
@@ -4861,6 +5911,12 @@
     },
     {
         "BNET":"Diario",
+        "Sala":"COMAS 1",
+        "fecha":1773273600000,
+        "VisaNet":11536.0
+    },
+    {
+        "BNET":"Diario",
         "Sala":"COMAS 2",
         "fecha":1773273600000,
         "VisaNet":13088.0
@@ -4875,7 +5931,7 @@
         "BNET":"Diario",
         "Sala":"COMAS 5",
         "fecha":1773273600000,
-        "VisaNet":4140.5
+        "VisaNet":7040.5
     },
     {
         "BNET":"Diario",
@@ -5236,6 +6292,12 @@
         "Sala":"SANTA ANITA",
         "fecha":1773273600000,
         "VisaNet":251764.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"SULLANA 1",
+        "fecha":1773273600000,
+        "VisaNet":78129.2
     },
     {
         "BNET":"Conteo",
