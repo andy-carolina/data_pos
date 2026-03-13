@@ -5466,12 +5466,6 @@
         "VisaNet":6977.0
     },
     {
-        "BNET":"Diario",
-        "Sala":"CHORRILLOS",
-        "fecha":1773100800000,
-        "VisaNet":54868.0
-    },
-    {
         "BNET":"Conteo",
         "Sala":"2 DE MAYO",
         "fecha":1773100800000,
@@ -5590,84 +5584,6 @@
         "Sala":"ZARATE 3",
         "fecha":1773100800000,
         "VisaNet":40683.7
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"BARRANCA 1",
-        "fecha":1773187200000,
-        "VisaNet":21332.4
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"BARRANCA 2",
-        "fecha":1773187200000,
-        "VisaNet":82030.1
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CAJAMARCA 1",
-        "fecha":1773187200000,
-        "VisaNet":16350.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"COMAS 3",
-        "fecha":1773187200000,
-        "VisaNet":14634.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CUSCO 1",
-        "fecha":1773187200000,
-        "VisaNet":92476.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"GAMARRA 1",
-        "fecha":1773187200000,
-        "VisaNet":33366.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"HUACHO 3",
-        "fecha":1773187200000,
-        "VisaNet":8973.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"LOS OLIVOS 2",
-        "fecha":1773187200000,
-        "VisaNet":505.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"LOS OLIVOS 3",
-        "fecha":1773187200000,
-        "VisaNet":7275.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"MANCO CAPAC",
-        "fecha":1773187200000,
-        "VisaNet":18585.5
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"PUCALLPA 3",
-        "fecha":1773187200000,
-        "VisaNet":37091.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"SAN JUAN 2",
-        "fecha":1773187200000,
-        "VisaNet":16536.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ZARATE 3",
-        "fecha":1773187200000,
-        "VisaNet":3499.0
     },
     {
         "BNET":"Conteo",
@@ -5797,33 +5713,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"ABANCAY 1",
-        "fecha":1773273600000,
-        "VisaNet":17677.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ANDAHUAYLAS 1",
-        "fecha":1773273600000,
-        "VisaNet":3694.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ANDAHUAYLAS 2",
-        "fecha":1773273600000,
-        "VisaNet":18721.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"AREQUIPA 1",
         "fecha":1773273600000,
         "VisaNet":11977.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"AYACUCHO 1",
-        "fecha":1773273600000,
-        "VisaNet":13383.0
     },
     {
         "BNET":"Diario",
@@ -5833,15 +5725,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"BARRANCA 3",
+        "Sala":"BARRANCA 1",
         "fecha":1773273600000,
-        "VisaNet":26054.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"BARRANCO 1",
-        "fecha":1773273600000,
-        "VisaNet":4479.88
+        "VisaNet":32007.4
     },
     {
         "BNET":"Diario",
@@ -5851,45 +5737,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"CAJAMARCA 2",
-        "fecha":1773273600000,
-        "VisaNet":5299.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CAJAMARCA 3",
-        "fecha":1773273600000,
-        "VisaNet":24764.5
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CHICLAYO 1",
-        "fecha":1773273600000,
-        "VisaNet":25120.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"CHICLAYO 2",
         "fecha":1773273600000,
         "VisaNet":11266.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CHIMBOTE 1",
-        "fecha":1773273600000,
-        "VisaNet":11413.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CHINCHA 1",
-        "fecha":1773273600000,
-        "VisaNet":13411.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CHINCHA 3",
-        "fecha":1773273600000,
-        "VisaNet":12825.4
     },
     {
         "BNET":"Diario",
@@ -5899,27 +5749,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"CHOSICA 1",
-        "fecha":1773273600000,
-        "VisaNet":44419.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"CHOSICA 2",
-        "fecha":1773273600000,
-        "VisaNet":13402.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"COMAS 1",
         "fecha":1773273600000,
         "VisaNet":11536.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"COMAS 2",
-        "fecha":1773273600000,
-        "VisaNet":13088.0
     },
     {
         "BNET":"Diario",
@@ -5947,15 +5779,15 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"HUACHO 1",
-        "fecha":1773273600000,
-        "VisaNet":10508.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"HUACHO 2",
         "fecha":1773273600000,
         "VisaNet":6159.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUACHO 3",
+        "fecha":1773273600000,
+        "VisaNet":10501.0
     },
     {
         "BNET":"Diario",
@@ -5965,75 +5797,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"HUARAZ 1",
-        "fecha":1773273600000,
-        "VisaNet":22535.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"HUARAZ 2",
-        "fecha":1773273600000,
-        "VisaNet":17242.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"HUARAZ 5",
-        "fecha":1773273600000,
-        "VisaNet":30313.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"HUARMEY 2",
-        "fecha":1773273600000,
-        "VisaNet":24879.5
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ICA 2",
-        "fecha":1773273600000,
-        "VisaNet":22354.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ILO 1",
-        "fecha":1773273600000,
-        "VisaNet":29115.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"IQUITOS 1",
         "fecha":1773273600000,
         "VisaNet":12503.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"IQUITOS 3",
-        "fecha":1773273600000,
-        "VisaNet":6472.5
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"IQUITOS 4",
-        "fecha":1773273600000,
-        "VisaNet":5669.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"IQUITOS 6",
-        "fecha":1773273600000,
-        "VisaNet":4618.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"JAEN 1",
-        "fecha":1773273600000,
-        "VisaNet":21960.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"JULIACA 1",
-        "fecha":1773273600000,
-        "VisaNet":43752.0
     },
     {
         "BNET":"Diario",
@@ -6043,15 +5809,15 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"LAMBAYEQUE",
-        "fecha":1773273600000,
-        "VisaNet":8091.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"LAMBAYEQUE 2",
         "fecha":1773273600000,
         "VisaNet":52020.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"LOS OLIVOS 3",
+        "fecha":1773273600000,
+        "VisaNet":9786.0
     },
     {
         "BNET":"Diario",
@@ -6061,39 +5827,15 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"MOYOBAMBA 1",
-        "fecha":1773273600000,
-        "VisaNet":35131.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"PIURA 1",
-        "fecha":1773273600000,
-        "VisaNet":15216.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"PIURA 2",
-        "fecha":1773273600000,
-        "VisaNet":38480.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"PUCALLPA 1",
         "fecha":1773273600000,
         "VisaNet":15945.0
     },
     {
         "BNET":"Diario",
-        "Sala":"PUCALLPA 2",
+        "Sala":"PUNO 2",
         "fecha":1773273600000,
-        "VisaNet":9586.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"SAN GERMAN",
-        "fecha":1773273600000,
-        "VisaNet":11736.0
+        "VisaNet":6915.0
     },
     {
         "BNET":"Diario",
@@ -6103,9 +5845,9 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"SAN JUAN 3",
+        "Sala":"SAN JUAN 2",
         "fecha":1773273600000,
-        "VisaNet":4108.0
+        "VisaNet":19725.0
     },
     {
         "BNET":"Diario",
@@ -6133,12 +5875,6 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"SAN MARTIN 5",
-        "fecha":1773273600000,
-        "VisaNet":5752.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"SULLANA 3",
         "fecha":1773273600000,
         "VisaNet":21456.0
@@ -6151,69 +5887,15 @@
     },
     {
         "BNET":"Diario",
-        "Sala":"TARAPOTO 1",
-        "fecha":1773273600000,
-        "VisaNet":1918.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"TARAPOTO 3",
-        "fecha":1773273600000,
-        "VisaNet":13810.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"TARAPOTO 4",
-        "fecha":1773273600000,
-        "VisaNet":9150.0
-    },
-    {
-        "BNET":"Diario",
         "Sala":"TARAPOTO 5",
         "fecha":1773273600000,
         "VisaNet":27871.0
     },
     {
         "BNET":"Diario",
-        "Sala":"TRUJILLO 1",
+        "Sala":"ZARATE 3",
         "fecha":1773273600000,
-        "VisaNet":51965.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"TRUJILLO 2",
-        "fecha":1773273600000,
-        "VisaNet":0.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"TUMBES 2",
-        "fecha":1773273600000,
-        "VisaNet":2981.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"TUMBES 3",
-        "fecha":1773273600000,
-        "VisaNet":1516.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"VENTANILLA 3",
-        "fecha":1773273600000,
-        "VisaNet":27855.5
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"VILLA 2",
-        "fecha":1773273600000,
-        "VisaNet":19723.0
-    },
-    {
-        "BNET":"Diario",
-        "Sala":"ZARATE 1",
-        "fecha":1773273600000,
-        "VisaNet":9960.0
+        "VisaNet":6205.0
     },
     {
         "BNET":"Conteo",
@@ -6235,9 +5917,27 @@
     },
     {
         "BNET":"Conteo",
+        "Sala":"CHORRILLOS",
+        "fecha":1773273600000,
+        "VisaNet":71141.0
+    },
+    {
+        "BNET":"Conteo",
         "Sala":"COLONIAL",
         "fecha":1773273600000,
         "VisaNet":49952.45
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"COMAS 3",
+        "fecha":1773273600000,
+        "VisaNet":15568.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CUSCO 1",
+        "fecha":1773273600000,
+        "VisaNet":97093.0
     },
     {
         "BNET":"Conteo",
@@ -6271,9 +5971,21 @@
     },
     {
         "BNET":"Conteo",
+        "Sala":"MANCO CAPAC",
+        "fecha":1773273600000,
+        "VisaNet":19991.5
+    },
+    {
+        "BNET":"Conteo",
         "Sala":"MOQUEGUA",
         "fecha":1773273600000,
         "VisaNet":42072.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PUCALLPA 3",
+        "fecha":1773273600000,
+        "VisaNet":40915.0
     },
     {
         "BNET":"Conteo",
@@ -6304,5 +6016,401 @@
         "Sala":"VENTANILLA 2",
         "fecha":1773273600000,
         "VisaNet":151628.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ABANCAY 1",
+        "fecha":1773360000000,
+        "VisaNet":26105.8
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ABANCAY 2",
+        "fecha":1773360000000,
+        "VisaNet":2115.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ANDAHUAYLAS 1",
+        "fecha":1773360000000,
+        "VisaNet":6234.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ANDAHUAYLAS 2",
+        "fecha":1773360000000,
+        "VisaNet":24482.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"AYACUCHO 1",
+        "fecha":1773360000000,
+        "VisaNet":26882.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"BARRANCA 2",
+        "fecha":1773360000000,
+        "VisaNet":3403.5
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"BARRANCA 3",
+        "fecha":1773360000000,
+        "VisaNet":37546.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"BARRANCO 1",
+        "fecha":1773360000000,
+        "VisaNet":5892.88
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CAJAMARCA 1",
+        "fecha":1773360000000,
+        "VisaNet":30640.2
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CAJAMARCA 2",
+        "fecha":1773360000000,
+        "VisaNet":15120.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CAJAMARCA 4",
+        "fecha":1773360000000,
+        "VisaNet":1210.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHICLAYO 1",
+        "fecha":1773360000000,
+        "VisaNet":32527.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHIMBOTE 1",
+        "fecha":1773360000000,
+        "VisaNet":13823.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHIMBOTE 3",
+        "fecha":1773360000000,
+        "VisaNet":3489.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHINCHA 1",
+        "fecha":1773360000000,
+        "VisaNet":20151.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHORRILLOS",
+        "fecha":1773360000000,
+        "VisaNet":6618.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHOSICA 1",
+        "fecha":1773360000000,
+        "VisaNet":52264.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CHOSICA 2",
+        "fecha":1773360000000,
+        "VisaNet":26987.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"COMAS 2",
+        "fecha":1773360000000,
+        "VisaNet":14930.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"CUSCO 1",
+        "fecha":1773360000000,
+        "VisaNet":4195.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"GAMARRA 1",
+        "fecha":1773360000000,
+        "VisaNet":53263.1
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUACHO 1",
+        "fecha":1773360000000,
+        "VisaNet":24355.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUANCAYO",
+        "fecha":1773360000000,
+        "VisaNet":44076.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUARAZ 1",
+        "fecha":1773360000000,
+        "VisaNet":49051.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUARAZ 2",
+        "fecha":1773360000000,
+        "VisaNet":27239.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUARAZ 4",
+        "fecha":1773360000000,
+        "VisaNet":6187.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"HUARMEY 2",
+        "fecha":1773360000000,
+        "VisaNet":28764.5
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ICA 1",
+        "fecha":1773360000000,
+        "VisaNet":8806.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ICA 2",
+        "fecha":1773360000000,
+        "VisaNet":45764.5
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ILO 1",
+        "fecha":1773360000000,
+        "VisaNet":40000.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"IQUITOS 2",
+        "fecha":1773360000000,
+        "VisaNet":1746.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"IQUITOS 4",
+        "fecha":1773360000000,
+        "VisaNet":7951.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"IQUITOS 6",
+        "fecha":1773360000000,
+        "VisaNet":8426.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"JAEN 1",
+        "fecha":1773360000000,
+        "VisaNet":43205.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"JULIACA 2",
+        "fecha":1773360000000,
+        "VisaNet":13810.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"LAMBAYEQUE",
+        "fecha":1773360000000,
+        "VisaNet":12653.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"LOS OLIVOS 2",
+        "fecha":1773360000000,
+        "VisaNet":3110.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"MANCO CAPAC",
+        "fecha":1773360000000,
+        "VisaNet":930.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"MOQUEGUA",
+        "fecha":1773360000000,
+        "VisaNet":1464.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"MOYOBAMBA 1",
+        "fecha":1773360000000,
+        "VisaNet":48761.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"PIURA 1",
+        "fecha":1773360000000,
+        "VisaNet":29603.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"PUCALLPA 2",
+        "fecha":1773360000000,
+        "VisaNet":19949.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SAN GERMAN",
+        "fecha":1773360000000,
+        "VisaNet":18872.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SAN JUAN 3",
+        "fecha":1773360000000,
+        "VisaNet":6366.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SAN MARTIN 2",
+        "fecha":1773360000000,
+        "VisaNet":2553.9
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SAN MARTIN 4",
+        "fecha":1773360000000,
+        "VisaNet":6709.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SAN MARTIN 5",
+        "fecha":1773360000000,
+        "VisaNet":6199.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SANTA ANITA",
+        "fecha":1773360000000,
+        "VisaNet":23955.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"SULLANA 1",
+        "fecha":1773360000000,
+        "VisaNet":7298.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TARAPOTO 1",
+        "fecha":1773360000000,
+        "VisaNet":5343.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TARAPOTO 3",
+        "fecha":1773360000000,
+        "VisaNet":16020.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TARAPOTO 4",
+        "fecha":1773360000000,
+        "VisaNet":15060.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TRUJILLO 2",
+        "fecha":1773360000000,
+        "VisaNet":11878.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TUMBES 2",
+        "fecha":1773360000000,
+        "VisaNet":3788.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"TUMBES 3",
+        "fecha":1773360000000,
+        "VisaNet":5048.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"VENTANILLA 2",
+        "fecha":1773360000000,
+        "VisaNet":12033.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"VILLA 2",
+        "fecha":1773360000000,
+        "VisaNet":44125.0
+    },
+    {
+        "BNET":"Diario",
+        "Sala":"ZARATE 1",
+        "fecha":1773360000000,
+        "VisaNet":17955.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CAJAMARCA 3",
+        "fecha":1773360000000,
+        "VisaNet":29335.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"CHINCHA 3",
+        "fecha":1773360000000,
+        "VisaNet":14273.4
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"HUARAZ 5",
+        "fecha":1773360000000,
+        "VisaNet":36502.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"IQUITOS 3",
+        "fecha":1773360000000,
+        "VisaNet":8044.5
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"JULIACA 1",
+        "fecha":1773360000000,
+        "VisaNet":52612.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"PIURA 2",
+        "fecha":1773360000000,
+        "VisaNet":43968.4
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"TRUJILLO 1",
+        "fecha":1773360000000,
+        "VisaNet":60885.0
+    },
+    {
+        "BNET":"Conteo",
+        "Sala":"VENTANILLA 3",
+        "fecha":1773360000000,
+        "VisaNet":31298.5
     }
 ]
