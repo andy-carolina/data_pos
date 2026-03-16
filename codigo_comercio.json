@@ -1023,5 +1023,10 @@
     "codigo_comercio": 10059591,
     "sala": "ZARATE 1",
     "pasarela": "openpay"
+  },
+  {
+    "codigo_comercio": 10007747,
+    "sala": "AREQUIPA 2",
+    "pasarela": "openpay"
   }
 ]
