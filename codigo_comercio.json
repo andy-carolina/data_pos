@@ -561,11 +561,6 @@
   },
   {
     "codigo_comercio": 10007748,
-    "sala": "SANJUAN 4",
-    "pasarela": "openpay"
-  },
-  {
-    "codigo_comercio": 10007748,
     "sala": "SAN JUAN 4",
     "pasarela": "openpay"
   },
